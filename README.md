@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me:
 I am a Full Stack Developer based in Japan :jp:!
-- :telescope: 
+- :telescope: Currently a frontend developer at Mercari Japan!
 
 - :seedling: Exploring Machine Learning.
 

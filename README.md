@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me:
 I am a Full Stack Developer based in Japan :jp:!
-- :telescope: I’m working as a Software Engineering Intern and contributing to frontend and backend for building web applications.
+- :telescope: 
 
 - :seedling: Exploring Machine Learning.
 
